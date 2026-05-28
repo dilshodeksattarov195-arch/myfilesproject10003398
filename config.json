@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicevalculate",
+        "uuid": 26164600,
+        "checksum": "cddcr6"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
